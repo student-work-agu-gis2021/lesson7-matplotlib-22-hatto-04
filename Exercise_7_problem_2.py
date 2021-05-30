@@ -65,7 +65,7 @@ outputfp = "temp_line_plot.png"
 
 # Save plot as image
 # YOUR CODE HERE 4
-
+plt.savefig("temp_line_plot.png")
 import os
 
 #Check that output file exists (also open the file and check that the plot looks ok!)
